@@ -3,7 +3,7 @@
 
 ### Hello! My name is Magic Ronald Mothae
 
-I am an accounting graduate with a passion for technology and web development. This repository showcases my projects and learning experiences as I navigate the world of coding, particularly focusing on web development and Python programming.
+I am an accounting graduate with a passion for technology and web development. This repository showcases my projects and learning experiences as I navigate the world of coding, particularly focusing on web development.
 
 ### About Me
 My technology journey began about four to five years ago when I created my first eCommerce store using Shopify. This experience ignited my interest in graphic design, marketing, and the broader tech landscape. I am a firm believer in the power of learning, and I love exploring new concepts and skills.
