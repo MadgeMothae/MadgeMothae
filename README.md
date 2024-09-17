@@ -16,7 +16,7 @@ I find joy in assisting others in their learning journeys, whether in sports or 
 ### What to Expect
 #### In this repository, you will find:
 #### Projects 
-A collection of coding projects that demonstrate my growing skills in web development and Python.
+A collection of coding projects that demonstrate my growing skills in web development and Javascript.
 #### Learning Resources
 Links and references to materials that have been helpful in my learning process.
 #### Reflections
