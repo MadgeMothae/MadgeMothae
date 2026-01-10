@@ -7,7 +7,7 @@ I specialize in the intersection of **South African Tax Law** and **Data Enginee
 
 ## 🛠️ Specialized Skill Set
 - **Domain Expertise:** SA Tax Legislation (SARS), EMP501 Reconciliations, Expat Shadow Payroll, IFRS, Pension & Medical Aid Auditing.
-- **Automation & Data:** Power Query (M Language), Power BI, Python (Pandas), Advanced Excel & VBA.
+- **Automation & Data:** Power Query, Power BI, Python, Advanced Excel & VBA.
 - **Systems Knowledge:** PaySpace, SAP, Workday, ServiceNow, Sage Business Cloud.
 
 ## 💡 What I Solve
